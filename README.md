@@ -3,7 +3,7 @@
 
 ### Descrição 📖
 
-O esquema é o mesmo. Coloca o sinal da conta que quer fazer, os valores e finaliza vendo a grandiosa resposta. Tudo isso em convertido de c++ para c#.
+O esquema é o mesmo. Coloca o sinal da conta que quer fazer, os valores e finaliza vendo a resposta. Tudo isso convertido de c++ para c#. Um destaque para este código é que, algo que será logo citado abaixo, não será necessário usar include <c.math>, isso porque o system marcado já inclui tudo.
 
 ### Comandos em destaque 🖼️
 
