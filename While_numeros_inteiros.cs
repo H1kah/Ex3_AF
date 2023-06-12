@@ -1,9 +1,9 @@
 using System;
 using System.Globalization;
 //como todo código, todo o arquivo precisa de uma biblioteca para que cada code seja compreendido, já que, sem eles, será apenas palavras sem signigicado nenhum.
-username Course
+namespace Course;
 //é um recurso que ajuda a organizar e evitar conflitos de nomes em um código
-class Program
+class Program 
 //para começar é necessário criar uma classe, no caso, está criando uma no public para que possa ser mencionada em outras partes do code.
 {
      public static void Main(string[] args)
