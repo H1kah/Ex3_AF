@@ -13,7 +13,7 @@ class Program {
 
         Console.Write("Entre com o operador +, -, *, /: ");
 //para que resposda é necessário a pergunta. No caso, o Console.Write é o qeu aparecerá na tela
-        op = int.Parse(Console.ReadLine());
+        op = char.Parse(Console.ReadLine());
 //aqui o op é citado para que possa ser associado com qualquer resposta à seguir.
         Console.Write("Entre com dois valores: ");
 //aqui é outra mensagem que aparecerá na tela, pedindo os valores desejados para fazer o cálculo
