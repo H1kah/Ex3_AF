@@ -1,4 +1,4 @@
-# While 🔼
+# While (entre 1 e 10) 🔼
 ## Status: Concluído 👍
 
 ### Descrição 📖
