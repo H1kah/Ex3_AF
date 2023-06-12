@@ -16,5 +16,5 @@ Int main foi subistituído, agora o código é feito a partir de classes, onde e
 - Console.Write // num = int.Parse(Console.ReadLine());: 
 Cout? Cin? Para que as mensagens apareçam na tela ou para que os digitos encaminhem para alguma variante, está sendo utilizado o Console.Write e o Num = int.Parse(Console.ReadLine()
 
--for
+- For
 O for é o que faz o loop acontecer. A partir dele, foi posssível determinar um valor desejado para que o alcance até um valor igual ou menor.
