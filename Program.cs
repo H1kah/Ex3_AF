@@ -5,7 +5,7 @@ namespace Course
 //é um recurso que ajuda a organizar e evitar conflitos de nomes em um código
 {
     public class Program
-//para começar é necessário criar uma clase, no caso, está criando uma no public para que possa ser mencionada em outras partes do code.
+//para começar é necessário criar uma classe, no caso, está criando uma no public para que possa ser mencionada em outras partes do code.
     {
         public static void Main(string[] args)
 //Não é mais int main, e sim, void main. Nessa parte, está criando outro public, citando o peso do comando(string), etc.
