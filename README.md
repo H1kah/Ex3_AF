@@ -3,7 +3,7 @@
 
 ### Descrição 📖
 
-O esquema é o mesmo. Coloca o sinal da conta que quer fazer, os valores e finaliza vendo a resposta. Tudo isso convertido de c++ para c#. Um destaque para este código é que, algo que será logo citado abaixo, não será necessário usar include <c.math>, isso porque o system marcado já inclui tudo.
+Mais um loop. Neste caso, o propósito do For é que o loop ocorra até um valor igual ou menor. Essa é uma versão que estava em c++, mas foi convertida para c#.
 
 ### Comandos em destaque 🖼️
 
@@ -15,3 +15,6 @@ Int main foi subistituído, agora o código é feito a partir de classes, onde e
 
 - Console.Write // num = int.Parse(Console.ReadLine());: 
 Cout? Cin? Para que as mensagens apareçam na tela ou para que os digitos encaminhem para alguma variante, está sendo utilizado o Console.Write e o Num = int.Parse(Console.ReadLine()
+
+-for
+O for é o que faz o loop acontecer. A partir dele, foi posssível determinar um valor desejado para que o alcance até um valor igual ou menor.
