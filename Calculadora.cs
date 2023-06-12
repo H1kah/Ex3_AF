@@ -22,9 +22,14 @@ class Program {
         b = float.Parse(values[1]);
 
         switch (op) {
+ //feito para mudar de acordo com o que for colocado. Neste caso, a variação é o sinal da conta.
             case '+':
+//caso for +, a conta irá somar. Será assim com todos os cases.
                 Console.WriteLine($"{a} + {b} = {a + b}");
+//aqui cada variável entre as chaves irá ser substituída de acordo com os valores que foram colocados antes. Isso acontecerá com todas abaixo
                 break;
+//break finaliza. Não rodará mais nada associado com este code.
+
             case '-':
                 Console.WriteLine($"{a} - {b} = {a - b}");
                 break;
@@ -35,6 +40,7 @@ class Program {
                 Console.WriteLine($"{a} / {b} = {a / b}");
                 break;
             default:
+//caso dê algum problema, algo com valor ou coisa assim, o programa mostrará essa mensagem.
                 Console.WriteLine("Operador errado, por favor insira o operador correto");
                 break;
         }
