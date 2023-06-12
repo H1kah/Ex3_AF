@@ -24,7 +24,7 @@ namespace Course
             } while (num < 1 || num > 10);
 //o while é para casos onde o código dá certo. Ou seja, se o requisitado foi feito, o código segue em frente
             Console.WriteLine("Você digitou o número " + num + ".");
-
+//o código da mensagem na tela. No caso, a resposta aparecerá na variável num, já que tudo que foi pedido antes foi completo.
         }
     }
 }
